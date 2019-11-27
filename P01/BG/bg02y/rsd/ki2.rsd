@@ -1,0 +1,9 @@
+@RSD940102
+# created by Meditor on Mon Nov 02 09:38:57 1998
+PLY=KI2.PLY
+MAT=KI2.MAT
+GRP=KI2.GRP
+# Number of TIM (Texture) Files
+NTEX=2
+TEX[0]=ki2.tim
+TEX[1]=ki.tim

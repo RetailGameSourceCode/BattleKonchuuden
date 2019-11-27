@@ -1,0 +1,7 @@
+@RSD940102
+# created by hrc2rsd.exe on Fri Aug 28 10:47:13 1998
+PLY=019.ply
+MAT=019.mat
+GRP=019.grp
+# number of tim (texture) files
+NTEX=0

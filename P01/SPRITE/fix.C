@@ -1,0 +1,242 @@
+
+/* ANM Converter Ver 2.08  By Indick-Czar */
+/* Data Convert File is fix.anm. */
+/* Data Convert Date is 1998/11/08 18:53:41 */
+
+CzAnimData fix0000[] = {
+	CzSPRITE_SET(-128, -128,   0, 368, 128,  32, CLUTX000, CLUTY481, TP29, CZS_EOD),
+};
+
+CzAnimData fix0001[] = {
+	CzSPRITE_SET(-128, -128, 128, 368,  24,  24, CLUTX000, CLUTY481, TP29, CZS_EOD),
+};
+
+CzAnimData fix0002[] = {
+	CzSPRITE_SET(-128, -128, 152, 368,  24,  16, CLUTX000, CLUTY481, TP29, CZS_EOD),
+};
+
+CzAnimData fix0003[] = {
+	CzSPRITE_SET(-128, -128, 176, 368,   8,   8, CLUTX000, CLUTY481, TP29, CZS_EOD),
+};
+
+CzAnimData fix0004[] = {
+	CzSPRITE_SET(-128, -128, 184, 368,   8,   8, CLUTX000, CLUTY481, TP29, CZS_EOD),
+};
+
+CzAnimData fix0005[] = {
+	CzSPRITE_SET(-128, -128, 192, 368,   8,   8, CLUTX000, CLUTY481, TP29, CZS_EOD),
+};
+
+CzAnimData fix0006[] = {
+	CzSPRITE_SET(-128, -128, 200, 368,   8,   8, CLUTX000, CLUTY481, TP29, CZS_EOD),
+};
+
+CzAnimData fix0007[] = {
+	CzSPRITE_SET(-128, -128, 208, 368,   8,   8, CLUTX000, CLUTY481, TP29, CZS_EOD),
+};
+
+CzAnimData fix0008[] = {
+	CzSPRITE_SET(-128, -128, 216, 368,   8,   8, CLUTX000, CLUTY481, TP29, CZS_EOD),
+};
+
+CzAnimData fix0009[] = {
+	CzSPRITE_SET(-128, -128, 224, 368,   8,   8, CLUTX000, CLUTY481, TP29, CZS_EOD),
+};
+
+CzAnimData fix0010[] = {
+	CzSPRITE_SET(-128, -128, 232, 368,   8,   8, CLUTX000, CLUTY481, TP29, CZS_EOD),
+};
+
+CzAnimData fix0011[] = {
+	CzSPRITE_SET(-128, -128, 240, 368,   8,   8, CLUTX000, CLUTY481, TP29, CZS_EOD),
+};
+
+CzAnimData fix0012[] = {
+	CzSPRITE_SET(-128, -128, 248, 368,   8,   8, CLUTX000, CLUTY481, TP29, CZS_EOD),
+};
+
+CzAnimData fix0013[] = {
+	CzSPRITE_SET(-128, -128, 152, 384,   8,   8, CLUTX000, CLUTY481, TP29, CZS_EOD),
+};
+
+CzAnimData fix0014[] = {
+	CzSPRITE_SET(-128, -128, 176, 376,   8,  16, CLUTX000, CLUTY481, TP29, CZS_EOD),
+};
+
+CzAnimData fix0015[] = {
+	CzSPRITE_SET(-128, -128, 184, 376,   8,  16, CLUTX000, CLUTY481, TP29, CZS_EOD),
+};
+
+CzAnimData fix0016[] = {
+	CzSPRITE_SET(-128, -128, 192, 376,   8,  16, CLUTX000, CLUTY481, TP29, CZS_EOD),
+};
+
+CzAnimData fix0017[] = {
+	CzSPRITE_SET(-128, -128, 200, 376,   8,  16, CLUTX000, CLUTY481, TP29, CZS_EOD),
+};
+
+CzAnimData fix0018[] = {
+	CzSPRITE_SET(-128, -128, 208, 376,   8,  16, CLUTX000, CLUTY481, TP29, CZS_EOD),
+};
+
+CzAnimData fix0019[] = {
+	CzSPRITE_SET(-128, -128, 216, 376,   8,  16, CLUTX000, CLUTY481, TP29, CZS_EOD),
+};
+
+CzAnimData fix0020[] = {
+	CzSPRITE_SET(-128, -128, 224, 376,   8,  16, CLUTX000, CLUTY481, TP29, CZS_EOD),
+};
+
+CzAnimData fix0021[] = {
+	CzSPRITE_SET(-128, -128, 232, 376,   8,  16, CLUTX000, CLUTY481, TP29, CZS_EOD),
+};
+
+CzAnimData fix0022[] = {
+	CzSPRITE_SET(-128, -128, 240, 376,   8,  16, CLUTX000, CLUTY481, TP29, CZS_EOD),
+};
+
+CzAnimData fix0023[] = {
+	CzSPRITE_SET(-128, -128, 248, 376,   8,  16, CLUTX000, CLUTY481, TP29, CZS_EOD),
+};
+
+CzAnimData fix0024[] = {
+	CzSPRITE_SET(-128, -128, 176, 392,  24,  16, CLUTX000, CLUTY482, TP29, CZS_EOD),
+};
+
+CzAnimData fix0025[] = {
+	CzSPRITE_SET(-128, -128,   0, 400, 176,  16, CLUTX000, CLUTY482, TP29, CZS_EOD),
+};
+
+CzAnimData fix0026[] = {
+	CzSPRITE_SET(-128, -128,   0, 416,  48,  24, CLUTX000, CLUTY483, TP29, CZS_EOD),
+};
+
+CzAnimData fix0027[] = {
+	CzSPRITE_SET(-128, -128,  48, 416,  48,  24, CLUTX000, CLUTY483, TP29, CZS_EOD),
+};
+
+CzAnimData fix0028[] = {
+	CzSPRITE_SET(-128, -128,  96, 416,  48,  24, CLUTX000, CLUTY483, TP29, CZS_EOD),
+};
+
+CzAnimData fix0029[] = {
+	CzSPRITE_SET(-128, -128, 144, 416,   8,  16, CLUTX000, CLUTY486, TP29, CZS_EOD),
+};
+
+CzAnimData fix0030[] = {
+	CzSPRITE_SET(-128, -128, 152, 416,   8,  16, CLUTX000, CLUTY486, TP29, CZS_EOD),
+};
+
+CzAnimData fix0031[] = {
+	CzSPRITE_SET(-128, -128, 160, 416,   8,  16, CLUTX000, CLUTY486, TP29, CZS_EOD),
+};
+
+CzAnimData fix0032[] = {
+	CzSPRITE_SET(-128, -128, 168, 416,   8,  16, CLUTX000, CLUTY486, TP29, CZS_EOD),
+};
+
+CzAnimData fix0033[] = {
+	CzSPRITE_SET(-128, -128, 176, 416,   8,  16, CLUTX000, CLUTY486, TP29, CZS_EOD),
+};
+
+CzAnimData fix0034[] = {
+	CzSPRITE_SET(-128, -128, 184, 416,   8,  16, CLUTX000, CLUTY486, TP29, CZS_EOD),
+};
+
+CzAnimData fix0035[] = {
+	CzSPRITE_SET(-128, -128, 192, 416,   8,  16, CLUTX000, CLUTY486, TP29, CZS_EOD),
+};
+
+CzAnimData fix0036[] = {
+	CzSPRITE_SET(-128, -128, 200, 416,   8,  16, CLUTX000, CLUTY486, TP29, CZS_EOD),
+};
+
+CzAnimData fix0037[] = {
+	CzSPRITE_SET(-128, -128, 208, 416,   8,  16, CLUTX000, CLUTY486, TP29, CZS_EOD),
+};
+
+CzAnimData fix0038[] = {
+	CzSPRITE_SET(-128, -128, 216, 416,   8,  16, CLUTX000, CLUTY486, TP29, CZS_EOD),
+};
+
+CzAnimData fix0039[] = {
+	CzSPRITE_SET(-128, -128, 200, 392,   8,  24, CLUTX000, CLUTY486, TP29, CZS_EOD),
+};
+
+CzAnimData fix0040[] = {
+	CzSPRITE_SET(-128, -128, 208, 392,   8,  24, CLUTX000, CLUTY486, TP29, CZS_EOD),
+};
+
+CzAnimData fix0041[] = {
+	CzSPRITE_SET(-128, -128, 216, 392,   8,  24, CLUTX000, CLUTY486, TP29, CZS_EOD),
+};
+
+CzAnimData fix0042[] = {
+	CzSPRITE_SET(-128, -128, 224, 392,   8,  24, CLUTX000, CLUTY486, TP29, CZS_EOD),
+};
+
+CzAnimData fix0043[] = {
+	CzSPRITE_SET(-128, -128, 232, 392,   8,  24, CLUTX000, CLUTY486, TP29, CZS_EOD),
+};
+
+CzAnimData fix0044[] = {
+	CzSPRITE_SET(-128, -128, 240, 392,   8,  24, CLUTX000, CLUTY486, TP29, CZS_EOD),
+};
+
+CzAnimData fix0045[] = {
+	CzSPRITE_SET(-128, -128, 248, 392,   8,  24, CLUTX000, CLUTY486, TP29, CZS_EOD),
+};
+
+CzAnimData fix0046[] = {
+	CzSPRITE_SET(-128, -128, 224, 416,   8,  24, CLUTX000, CLUTY486, TP29, CZS_EOD),
+};
+
+CzAnimData fix0047[] = {
+	CzSPRITE_SET(-128, -128, 232, 416,   8,  24, CLUTX000, CLUTY486, TP29, CZS_EOD),
+};
+
+CzAnimData fix0048[] = {
+	CzSPRITE_SET(-128, -128,   0, 440,  16,  24, CLUTX000, CLUTY488, TP29, CZS_EOD),
+};
+
+CzAnimData fix0049[] = {
+	CzSPRITE_SET(-128, -128,  16, 440,  16,  24, CLUTX000, CLUTY488, TP29, CZS_EOD),
+};
+
+CzAnimData fix0050[] = {
+	CzSPRITE_SET(-128, -128,  32, 440,  16,  24, CLUTX000, CLUTY488, TP29, CZS_EOD),
+};
+
+CzAnimData fix0051[] = {
+	CzSPRITE_SET(-128, -128,  48, 440,  16,  24, CLUTX000, CLUTY488, TP29, CZS_EOD),
+};
+
+CzAnimData fix0052[] = {
+	CzSPRITE_SET(-128, -128,  64, 440,  16,  24, CLUTX000, CLUTY488, TP29, CZS_EOD),
+};
+
+CzAnimData fix0053[] = {
+	CzSPRITE_SET(-128, -128,  80, 440,  16,  24, CLUTX000, CLUTY488, TP29, CZS_EOD),
+};
+
+CzAnimData fix0054[] = {
+	CzSPRITE_SET(-128, -128,  96, 440,  16,  24, CLUTX000, CLUTY488, TP29, CZS_EOD),
+};
+
+CzAnimData fix0055[] = {
+	CzSPRITE_SET(-128, -128, 112, 440,  16,  24, CLUTX000, CLUTY488, TP29, CZS_EOD),
+};
+
+CzAnimData fix0056[] = {
+	CzSPRITE_SET(-128, -128, 128, 440,  16,  24, CLUTX000, CLUTY488, TP29, CZS_EOD),
+};
+
+CzAnimData fix0057[] = {
+	CzSPRITE_SET(-128, -128, 144, 440,  16,  24, CLUTX000, CLUTY488, TP29, CZS_EOD),
+};
+
+CzAnimData fix0058[] = {
+	CzSPRITE_SET(-128, -128, 160, 440,  56,  24, CLUTX000, CLUTY486, TP29, CZS_EOD),
+};
+
+

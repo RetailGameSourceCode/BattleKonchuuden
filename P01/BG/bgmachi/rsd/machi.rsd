@@ -1,0 +1,19 @@
+@RSD940102
+# created by Meditor on Mon Nov 16 14:03:30 1998
+PLY=MACHI.PLY
+MAT=MACHI.MAT
+GRP=MACHI.GRP
+# Number of TIM (Texture) Files
+NTEX=12
+TEX[0]=jimen01.tim
+TEX[1]=bill01.tim
+TEX[2]=bill02.tim
+TEX[3]=bill03.tim
+TEX[4]=bill04.tim
+TEX[5]=bill05.tim
+TEX[6]=jale01.tim
+TEX[7]=jale02.tim
+TEX[8]=ue01.tim
+TEX[9]=ue02.tim
+TEX[10]=ue03.tim
+TEX[11]=hasi.tim

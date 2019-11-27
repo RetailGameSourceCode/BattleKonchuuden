@@ -1,0 +1,10 @@
+@GRP940102
+# created by Meditor on Mon Oct 05 17:06:54 1998
+# Number of Groups
+2
+# GroupName  Lines  Polygons
+fuchi  1  26
+0-9,11-16,18,19,51-56,58,59
+# GroupName  Lines  Polygons
+hara1  1  8
+39,41,48,50,80,82,89,91

@@ -1,0 +1,134 @@
+
+/* ANM Converter Ver 2.08  By Indick-Czar */
+/* Data Convert File is beem3.anm. */
+/* Data Convert Date is 1998/11/02 17:36:8 */
+
+CzAnimData roll0000a[] = {
+	CzSPRITE_SET(-128, -128, 320 * 4,   0, 160, 128, CLUTX128, CLUTY480, TP05, CZS_EOD),
+};
+
+CzAnimData roll0001a[] = {
+	CzSPRITE_SET(-128, -128, 384 * 4,   0, 160, 128, CLUTX128, CLUTY480, TP06, CZS_EOD),
+};
+
+CzAnimData roll0002a[] = {
+	CzSPRITE_SET(-128, -128, 448 * 4,   0, 160, 128, CLUTX128, CLUTY480, TP07, CZS_EOD),
+};
+
+CzAnimData roll0003a[] = {
+	CzSPRITE_SET(-128, -128, 512 * 4,   0, 160, 128, CLUTX128, CLUTY480, TP08, CZS_EOD),
+};
+
+CzAnimData roll0004a[] = {
+	CzSPRITE_SET(-128, -128, 576 * 4,   0, 160, 128, CLUTX128, CLUTY480, TP09, CZS_EOD),
+};
+
+CzAnimData roll0005a[] = {
+	CzSPRITE_SET(-128, -128, 640 * 4,   0, 160, 128, CLUTX128, CLUTY480, TP10, CZS_EOD),
+};
+
+CzAnimData roll0006a[] = {
+	CzSPRITE_SET(-128, -128, 704 * 4,   0, 160, 128, CLUTX128, CLUTY480, TP11, CZS_EOD),
+};
+
+CzAnimData roll0007a[] = {
+	CzSPRITE_SET(-128, -128, 768 * 4,   0, 160, 128, CLUTX128, CLUTY480, TP12, CZS_EOD),
+};
+
+CzAnimData roll0008a[] = {
+	CzSPRITE_SET(-128, -128, 832 * 4,   0, 160, 128, CLUTX128, CLUTY480, TP13, CZS_EOD),
+};
+
+CzAnimData roll0009a[] = {
+	CzSPRITE_SET(-128, -128, 896 * 4,   0, 160, 128, CLUTX128, CLUTY480, TP14, CZS_EOD),
+};
+
+CzAnimData roll000aa[] = {
+	CzSPRITE_SET(-128, -128, 960 * 4,   0, 160, 128, CLUTX128, CLUTY480, TP15, CZS_EOD),
+};
+
+CzAnimData roll000ba[] = {
+	CzSPRITE_SET(-128, -128, 320 * 4,   0, 160, 128, CLUTX128, CLUTY480, TP21, CZS_EOD),
+};
+
+CzAnimData roll000ca[] = {
+	CzSPRITE_SET(-128, -128, 384 * 4,   0, 160, 128, CLUTX128, CLUTY480, TP22, CZS_EOD),
+};
+
+CzAnimData roll000da[] = {
+	CzSPRITE_SET(-128, -128, 448 * 4,   0, 160, 128, CLUTX128, CLUTY480, TP23, CZS_EOD),
+};
+
+CzAnimData roll000ea[] = {
+	CzSPRITE_SET(-128, -128, 512 * 4,   0, 160, 128, CLUTX128, CLUTY480, TP24, CZS_EOD),
+};
+
+CzAnimData roll000fa[] = {
+	CzSPRITE_SET(-128, -128, 576 * 4,   0, 160, 128, CLUTX128, CLUTY480, TP25, CZS_EOD),
+};
+
+CzAnimData roll0000b[] = {
+	CzSPRITE_SET(-128, -128, 320 * 4, 128, 160, 128, CLUTX128, CLUTY480, TP05, CZS_EOD),
+};
+
+CzAnimData roll0001b[] = {
+	CzSPRITE_SET(-128, -128, 384 * 4, 128, 160, 128, CLUTX128, CLUTY480, TP06, CZS_EOD),
+};
+
+CzAnimData roll0002b[] = {
+	CzSPRITE_SET(-128, -128, 448 * 4, 128, 160, 128, CLUTX128, CLUTY480, TP07, CZS_EOD),
+};
+
+CzAnimData roll0003b[] = {
+	CzSPRITE_SET(-128, -128, 512 * 4, 128, 160, 128, CLUTX128, CLUTY480, TP08, CZS_EOD),
+};
+
+CzAnimData roll0004b[] = {
+	CzSPRITE_SET(-128, -128, 576 * 4, 128, 160, 128, CLUTX128, CLUTY480, TP09, CZS_EOD),
+};
+
+CzAnimData roll0005b[] = {
+	CzSPRITE_SET(-128, -128, 640 * 4, 128, 160, 128, CLUTX128, CLUTY480, TP10, CZS_EOD),
+};
+
+CzAnimData roll0006b[] = {
+	CzSPRITE_SET(-128, -128, 704 * 4, 128, 160, 128, CLUTX128, CLUTY480, TP11, CZS_EOD),
+};
+
+CzAnimData roll0007b[] = {
+	CzSPRITE_SET(-128, -128, 768 * 4, 128, 160, 128, CLUTX128, CLUTY480, TP12, CZS_EOD),
+};
+
+CzAnimData roll0008b[] = {
+	CzSPRITE_SET(-128, -128, 832 * 4, 128, 160, 128, CLUTX128, CLUTY480, TP13, CZS_EOD),
+};
+
+CzAnimData roll0009b[] = {
+	CzSPRITE_SET(-128, -128, 896 * 4, 128, 160, 128, CLUTX128, CLUTY480, TP14, CZS_EOD),
+};
+
+CzAnimData roll000ab[] = {
+	CzSPRITE_SET(-128, -128, 960 * 4, 128, 160, 128, CLUTX128, CLUTY480, TP15, CZS_EOD),
+};
+
+CzAnimData roll000bb[] = {
+	CzSPRITE_SET(-128, -128, 320 * 4, 128, 160, 128, CLUTX128, CLUTY480, TP21, CZS_EOD),
+};
+
+CzAnimData roll000cb[] = {
+	CzSPRITE_SET(-128, -128, 384 * 4, 128, 160, 128, CLUTX128, CLUTY480, TP22, CZS_EOD),
+};
+
+CzAnimData roll000db[] = {
+	CzSPRITE_SET(-128, -128, 448 * 4, 128, 160, 128, CLUTX128, CLUTY480, TP23, CZS_EOD),
+};
+
+CzAnimData roll000eb[] = {
+	CzSPRITE_SET(-128, -128, 512 * 4, 128, 160, 128, CLUTX128, CLUTY480, TP24, CZS_EOD),
+};
+
+CzAnimData roll000fb[] = {
+	CzSPRITE_SET(-128, -128, 576 * 4, 128, 160, 128, CLUTX128, CLUTY480, TP25, CZS_EOD),
+};
+
+

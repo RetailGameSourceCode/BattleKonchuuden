@@ -1,0 +1,124 @@
+;*--+----1----+----2----+----3----+----4----+----5----+----6----+----7----+--*/
+;*  System Name   : INSECT POKEMON                                           */
+;*  Machine & OS  : Sony PlayStation / PlayStation OS ( R3000 )              */
+;*  Language      : LINKER                                                   */
+;*                                                                           */
+;*  File Contents : INSECT POKEMON LINKER [ DEV CODE: 98025 ]                */
+;*  File Attribute: LINKFILE                                                 */
+;*  File Name     : SIR.LNK                                                  */
+;*                                                                           */
+;*--+----1----+----2----+----3----+----4----+----5----+----6----+----7----+--*/
+         org       $80010000                     ; Main Load Address
+
+text     group                                   ; Main Text Group
+bss      group     bss                           ; Main Data Group
+
+prcs01   group     file("../tmp/01.bin")
+prcs02   group     over(prcs01),file("../tmp/02.bin")
+prcs03   group     over(prcs01),file("../tmp/03.bin")
+prcs04   group     over(prcs01),file("../tmp/04.bin")
+prcs05   group     over(prcs01),file("../tmp/05.bin")
+prcs06   group     over(prcs01),file("../tmp/06.bin")
+prcs07   group     over(prcs01),file("../tmp/07.bin")
+prcs09   group     over(prcs01),file("../tmp/09.bin")
+prcs10   group     over(prcs01),file("../tmp/10.bin")
+prcs11   group     over(prcs01),file("../tmp/11.bin")
+prcs12   group     over(prcs01),file("../tmp/12.bin")
+prcs13   group     over(prcs01),file("../tmp/13.bin")
+prcs14   group     over(prcs01),file("../tmp/14.bin")
+prcs08   group     file("../tmp/08.bin")
+
+;*--+----1----+----2----+----3----+----4----+----5----+----6----+----7----+*/
+;* MAIN SECTION                                                            */
+;*--+----1----+----2----+----3----+----4----+----5----+----6----+----7----+*/
+        section	.rdata,text                      ; Read Only Data
+        section	.text,text                       ; Code
+        section	.data,text                       ; Exist   Initialize Data
+        section	.sdata,text                      ; Exist   Initialize Data (S)
+        section	.sbss,bss                        ; Unexist Initialize Data (S)
+        section	.bss,bss                         ; Unexist Initialize Data
+
+;*--+----1----+----2----+----3----+----4----+----5----+----6----+----7----+--*/
+;*  USER LIBRARY                                                             */
+;*--+----1----+----2----+----3----+----4----+----5----+----6----+----7----+--*/
+        include "../lib/lzdecode.obj"
+        inclib  "../lib/libfio.lib"
+        inclib  "../lib/libdbg.lib"
+        inclib  "../lib/libctl.lib"
+        inclib  "../lib/libdat.lib"
+        inclib  "../lib/libemc.lib"
+        inclib  "../lib/libpad.lib"
+        inclib  "../lib/pad.lib"
+        inclib  "../lib/redlib.lib"
+        inclib  "../lib/model.lib"
+        inclib  "../lib/fade.lib"
+        inclib  "../lib/sprite.lib"
+        inclib  "../lib/akmcrd.lib"
+
+;*--+----1----+----2----+----3----+----4----+----5----+----6----+----7----+--*/
+;*  P00 OBJECT                                                               */
+;*--+----1----+----2----+----3----+----4----+----5----+----6----+----7----+--*/
+        inclib  "../lib/mainsys.lib"
+
+;*--+----1----+----2----+----3----+----4----+----5----+----6----+----7----+--*/
+;*  P01 OBJECT                                                               */
+;*--+----1----+----2----+----3----+----4----+----5----+----6----+----7----+--*/
+        inclib  "../lib/polygon.lib"
+
+;*--+----1----+----2----+----3----+----4----+----5----+----6----+----7----+--*/
+;*  P02 OBJECT                                                               */
+;*--+----1----+----2----+----3----+----4----+----5----+----6----+----7----+--*/
+        inclib  "../lib/menu.lib"
+
+;*--+----1----+----2----+----3----+----4----+----5----+----6----+----7----+--*/
+;*  P03 OBJECT                                                               */
+;*--+----1----+----2----+----3----+----4----+----5----+----6----+----7----+--*/
+        inclib  "../lib/strategy.lib"
+
+;*--+----1----+----2----+----3----+----4----+----5----+----6----+----7----+--*/
+;*  P04 OBJECT                                                               */
+;*--+----1----+----2----+----3----+----4----+----5----+----6----+----7----+--*/
+        inclib  "../lib/street.lib"
+
+;*--+----1----+----2----+----3----+----4----+----5----+----6----+----7----+--*/
+;*  P05 OBJECT                                                               */
+;*--+----1----+----2----+----3----+----4----+----5----+----6----+----7----+--*/
+        inclib  "../lib/title.lib"
+
+;*--+----1----+----2----+----3----+----4----+----5----+----6----+----7----+--*/
+;*  P06 OBJECT                                                               */
+;*--+----1----+----2----+----3----+----4----+----5----+----6----+----7----+--*/
+        inclib  "../lib/zukan.lib"
+
+;*--+----1----+----2----+----3----+----4----+----5----+----6----+----7----+--*/
+;*  P07 OBJECT                                                               */
+;*--+----1----+----2----+----3----+----4----+----5----+----6----+----7----+--*/
+        inclib  "../lib/slpda.lib"
+        inclib  "../lib/libg2d.lib"
+
+;*--+----1----+----2----+----3----+----4----+----5----+----6----+----7----+--*/
+;*  P09 OBJECT                                                               */
+;*--+----1----+----2----+----3----+----4----+----5----+----6----+----7----+--*/
+        inclib  "../lib/staff.lib"
+
+;*--+----1----+----2----+----3----+----4----+----5----+----6----+----7----+--*/
+;*  PSX LIBRARY                                                              */
+;*--+----1----+----2----+----3----+----4----+----5----+----6----+----7----+--*/
+        inclib  "c:\psx\lib\libapi.lib"
+        inclib  "c:\psx\lib\libc2.lib"
+        inclib  "c:\psx\lib\libcard.lib"
+        inclib  "c:\psx\lib\libgpu.lib"
+        inclib  "c:\psx\lib\libgs.lib"
+        inclib  "c:\psx\lib\libgte.lib"
+        inclib  "c:\psx\lib\libcd.lib"
+        inclib  "c:\psx\lib\libetc.lib"
+        inclib  "c:\psx\lib\libsn.lib"
+        inclib  "c:\psx\lib\libsnd.lib"
+        inclib  "c:\psx\lib\libspu.lib"
+        inclib  "c:\psx\lib\libmath.lib"
+        inclib  "c:\psx\lib\libds.lib"
+        inclib  "c:\psx\lib\libmcrd.lib"
+        inclib  "c:\psx\lib\libmcx.lib"
+
+        regs	pc=__SN_ENTRY_POINT	; entry point
+

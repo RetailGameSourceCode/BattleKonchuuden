@@ -1,0 +1,8 @@
+@RSD940102
+# created by Meditor on Tue Oct 13 17:46:02 1998
+PLY=004.PLY
+MAT=004.MAT
+GRP=004.GRP
+# Number of TIM (Texture) Files
+NTEX=1
+TEX[0]=syokaku.tim

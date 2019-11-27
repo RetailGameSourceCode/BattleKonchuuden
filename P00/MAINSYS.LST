@@ -1,0 +1,8 @@
+../p00/pubgrp.obj
+../p00/pubsys.obj
+../p00/pubcom.obj
+../p00/mainsys.obj
+../p00/initsys.obj
+../p00/ldaddr.obj
+../p00/2mbyte.obj
+

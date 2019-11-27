@@ -1,0 +1,11 @@
+@RSD940102
+# created by Meditor on Mon Sep 28 17:48:52 1998
+PLY=bg06.ply
+MAT=bg06.mat
+GRP=bg06.grp
+# Number of TIM (Texture) Files
+NTEX=4
+TEX[0]=bg06.tim
+TEX[1]=bg062.tim
+TEX[2]=bg063.tim
+TEX[3]=bg064.tim

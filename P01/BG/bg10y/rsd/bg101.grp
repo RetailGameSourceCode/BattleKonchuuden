@@ -1,0 +1,16 @@
+@GRP940102
+# created by Meditor on Fri Nov 06 10:44:19 1998
+# Number of Groups
+4
+# GroupName  Lines  Polygons
+sora  1  36
+25-60
+# GroupName  Lines  Polygons
+ki2  1  36
+0-24,61-71
+# GroupName  Lines  Polygons
+jimenn  1  48
+72-119
+# GroupName  Lines  Polygons
+ki  1  294
+120-413

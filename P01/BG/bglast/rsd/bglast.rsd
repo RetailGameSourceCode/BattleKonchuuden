@@ -1,0 +1,12 @@
+@RSD940102
+# created by Meditor on Fri Nov 06 14:58:04 1998
+PLY=bglast.ply
+MAT=bglast.mat
+GRP=bglast.grp
+# Number of TIM (Texture) Files
+NTEX=5
+TEX[0]=jimen.tim
+TEX[1]=ki.tim
+TEX[2]=ki02.tim
+TEX[3]=last01.tim
+TEX[4]=last02.tim

@@ -1,0 +1,7 @@
+@RSD940102
+# created by Meditor on Thu Sep 03 15:50:36 1998
+PLY=tukibom.ply
+MAT=tukibom.mat
+GRP=tukibom.grp
+# Number of TIM (Texture) Files
+NTEX=0

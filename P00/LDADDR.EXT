@@ -1,0 +1,18 @@
+/*--+----1----+----2----+----3----+----4----+----5----+----6----+----7----+--*/
+/*  System Name   : INSECT POKEMON                                           */
+/*  Machine & OS  : Sony PlayStation / PlayStation OS ( R3000 )              */
+/*  Language      : ASSEMBLER                                                */
+/*                                                                           */
+/*  File Contents : LOAD ADDRESSS PROCEDURES                                 */
+/*  File Attribute: EXTERNAL                                                 */
+/*  File Name     : LDADDR.EXT                                               */
+/*                                                                           */
+/*--+----1----+----2----+----3----+----4----+----5----+----6----+----7----+--*/
+
+/*--+----1----+----2----+----3----+----4----+----5----+----6----+----7----+--*/
+/*  LOAD ADDRESS                                                             */
+/*--+----1----+----2----+----3----+----4----+----5----+----6----+----7----+--*/
+extern void *LoadAddress;
+extern void *LoadAddress8;
+
+

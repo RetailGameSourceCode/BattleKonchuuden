@@ -1,0 +1,8 @@
+@RSD940102
+# created by Meditor on Wed Nov 18 13:13:59 1998
+PLY=032.PLY
+MAT=032.MAT
+GRP=032.GRP
+# Number of TIM (Texture) Files
+NTEX=1
+TEX[0]=ironman.tim

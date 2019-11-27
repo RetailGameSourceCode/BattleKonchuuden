@@ -1,0 +1,115 @@
+#version
+ 4.113
+#readram0
+ 00000000  007FFFFF
+ 1F800000  1F8003FF
+ 80000000  807FFFFF
+ A0000000  A07FFFFF
+#writeram0
+ 00000000  007FFFFF 
+ 1F800000  1F8003FF 
+ 80000000  807FFFFF 
+#update
+ FF 0008
+#video
+ 03 50 32
+#label level
+ 02 00 00
+#colour attributes
+ 17 20 60 40 1F 2F 6F 4F 3E B0 4F 5E 0C 70 C0 87 8E 8E F0 90 4F 87 7C 0E 0A 70
+#mono attributes
+ 07 07 07 07 0F 0F 0F 0F 70 70 07 70 0F 70 01 07 0F 0F 70 0F 07 07 70 07 07 70
+#default tabs
+ 68K 0F 17 28 30 00 00 00 00
+ 658 0F 17 28 30 00 00 00 00
+ Z80 0F 17 28 30 00 00 00 00
+ C   04 00 00 00 00 00 00 00
+#expression C/ASM flags
+ 00 FF 00 00 00
+#window
+ 01 00 00 00
+ 00 01 4F 0D 36 08
+ 00000000
+#window
+ 02 00 00 00
+ 00 0D 4F 1C 31 1A
+ 800C2FA4
+#window
+ 04 00 40 00
+ 00 2E 4F 30 34 2F
+ 00000000
+#watches
+ 80 00 08
+ anm
+ 80 00 08
+ cap
+ 80 00 08
+ sprite
+ 80 00 08
+ mod
+ 80 00 08
+ mot
+ 80 00 08
+ motbuf
+ 80 00 08
+ motion
+ 80 00 08
+ adr
+ 80 00 08
+ player
+ 80 00 08
+ cam
+ 80 00 08
+ bgmodel
+ 80 00 08
+ sc
+ 80 00 08
+ fade
+ 80 00 08
+ spp
+ 80 00 08
+ rr
+ 80 00 08
+ pp
+ 80 00 08
+ zp
+ 80 00 08
+ zpos
+ 80 00 08
+ si_env
+ 80 00 08
+ adr
+ 80 00 08
+ source_adr
+ 80 00 08
+ battleturn
+
+#window
+ 83 02 40 00
+ 00 1C 4F 2E 25 2D
+ 801EFA78
+#history
+ 02 /98025/p00/mainsys.c
+ 02 /98025/p00/mainsys.c
+ 02 /98025/p01/battle.c
+ 02 /98025/p01/battle.c
+ 02 /98025/p01/battle.c
+ 02 /98025/p01/battle.c
+ 02 /98025/p01/battle.c
+ 02 /98025/p01/pinit.c
+ 0A 801efa00
+ 0A 801efa00
+ 0A 801e6a00
+ 0A iMapMapping
+ 0A iMapMapping
+ 0A 8013c000
+ 0A 800fae20
+ 0A 80162000
+ 12 Pad
+ 12 pad
+ 12 padbuf
+ 12 padbuf
+ 12 battleturn
+ 12 source_adr
+ 12 adr
+ 12 si_env

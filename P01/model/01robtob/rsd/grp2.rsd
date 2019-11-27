@@ -1,0 +1,10 @@
+@RSD940102
+# created by rsdmg
+PLY=grp2.ply
+MAT=grp2.mat
+GRP=grp2.grp
+# Number of TIM (Texture) Files
+NTEX=3
+TEX[0]=cover.tim
+TEX[1]=tuuki.tim
+TEX[2]=ura.tim

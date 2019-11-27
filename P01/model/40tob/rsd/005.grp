@@ -1,0 +1,13 @@
+@GRP940102
+# created by Meditor on Thu Oct 08 15:26:07 1998
+# Number of Groups
+3
+# GroupName  Lines  Polygons
+ura  1  11
+4-7,20,21,25,26,36,45,47
+# GroupName  Lines  Polygons
+toge  1  10
+2,8,10-13,16,18,19,27
+# GroupName  Lines  Polygons
+uchi  1  13
+0,1,14,17,22,28-30,40,42,44,46,50

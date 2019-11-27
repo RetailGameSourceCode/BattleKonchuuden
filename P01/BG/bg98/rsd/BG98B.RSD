@@ -1,0 +1,13 @@
+@RSD940102
+# created by Meditor on Tue Oct 27 11:47:11 1998
+PLY=BG98B.PLY
+MAT=BG98B.MAT
+GRP=BG98B.GRP
+# Number of TIM (Texture) Files
+NTEX=6
+TEX[0]=wood.tim
+TEX[1]=wood3.tim
+TEX[2]=wood2.tim
+TEX[3]=ishi2.tim
+TEX[4]=ishi.tim
+TEX[5]=wood4.tim

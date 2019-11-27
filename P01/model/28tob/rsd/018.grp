@@ -1,0 +1,16 @@
+@GRP940102
+# created by Meditor on Fri Nov 06 10:49:48 1998
+# Number of Groups
+4
+# GroupName  Lines  Polygons
+hara  1  32
+38,41-47,49-57,60-66,68-75
+# GroupName  Lines  Polygons
+haneL  1  3
+58,59,67
+# GroupName  Lines  Polygons
+haneR  1  3
+39,40,48
+# GroupName  Lines  Polygons
+se  1  38
+0-37

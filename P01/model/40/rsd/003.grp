@@ -1,0 +1,17 @@
+@GRP940102
+# created by Meditor on Thu Oct 08 15:30:49 1998
+# Number of Groups
+4
+# GroupName  Lines  Polygons
+head  2  32
+0-2,4,5,12,14-16,23-27,32,33,36-38,40,41,48,50-52
+59-63,68,69
+# GroupName  Lines  Polygons
+face  1  11
+6-8,10,11,13,18,28,29,31,34
+# GroupName  Lines  Polygons
+face2  1  11
+42-44,46,47,49,54,64,65,67,70
+# GroupName  Lines  Polygons
+ago  1  8
+0,2,5,15,36,38,41,51

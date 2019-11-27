@@ -1,0 +1,9 @@
+@RSD940102
+# created by Meditor on Wed Oct 28 16:36:14 1998
+PLY=035.ply
+MAT=035.mat
+GRP=035.grp
+# Number of TIM (Texture) Files
+NTEX=2
+TEX[0]=hane3.tim
+TEX[1]=hane2.tim

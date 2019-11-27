@@ -1,0 +1,7 @@
+@RSD940102
+# created by Meditor on Tue Nov 17 13:45:05 1998
+PLY=011.ply
+MAT=011.mat
+GRP=011.grp
+# Number of TIM (Texture) Files
+NTEX=0

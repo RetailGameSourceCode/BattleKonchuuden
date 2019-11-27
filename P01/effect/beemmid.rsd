@@ -1,0 +1,8 @@
+@RSD940102
+# created by Meditor on Wed Oct 21 17:40:32 1998
+PLY=beemmid.ply
+MAT=beemmid.mat
+GRP=beemmid.grp
+# Number of TIM (Texture) Files
+NTEX=1
+TEX[0]=beem.tim

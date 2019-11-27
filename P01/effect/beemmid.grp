@@ -1,0 +1,10 @@
+@GRP940102
+# created by Meditor on Wed Oct 21 17:40:32 1998
+# Number of Groups
+2
+# GroupName  Lines  Polygons
+naka  1  40
+32-47,64-71,88-103
+# GroupName  Lines  Polygons
+soto  1  64
+0-31,48-63,72-87

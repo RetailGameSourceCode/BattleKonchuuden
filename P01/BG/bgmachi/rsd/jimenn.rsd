@@ -1,0 +1,10 @@
+@RSD940102
+# created by Meditor on Mon Nov 16 13:51:12 1998
+PLY=jimenn.ply
+MAT=jimenn.mat
+GRP=jimenn.grp
+# Number of TIM (Texture) Files
+NTEX=3
+TEX[0]=jimen01.tim
+TEX[1]=jimen02.tim
+TEX[2]=bg01.tim

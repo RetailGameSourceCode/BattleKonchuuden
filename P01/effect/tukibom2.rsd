@@ -1,0 +1,8 @@
+@RSD940102
+# created by Meditor on Tue Sep 08 11:58:17 1998
+PLY=TUKIBOM2.PLY
+MAT=TUKIBOM2.MAT
+GRP=TUKIBOM2.GRP
+# Number of TIM (Texture) Files
+NTEX=1
+TEX[0]=bomefect.tim

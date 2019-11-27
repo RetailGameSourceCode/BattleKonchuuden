@@ -1,0 +1,12 @@
+@RSD940102
+# created by Meditor on Tue Nov 17 16:37:06 1998
+PLY=002.PLY
+MAT=002.MAT
+GRP=002.GRP
+# Number of TIM (Texture) Files
+NTEX=5
+TEX[0]=head.tim
+TEX[1]=body.tim
+TEX[2]=cover.tim
+TEX[3]=tuuki.tim
+TEX[4]=ura.tim

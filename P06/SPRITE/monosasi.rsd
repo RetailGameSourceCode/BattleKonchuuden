@@ -1,0 +1,8 @@
+@RSD940102
+# created by Meditor on Tue Nov 10 00:51:15 1998
+PLY=monosasi.ply
+MAT=monosasi.mat
+GRP=monosasi.grp
+# Number of TIM (Texture) Files
+NTEX=1
+TEX[0]=monosasi.tim

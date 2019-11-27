@@ -1,0 +1,10 @@
+@RSD940102
+# created by Meditor on Sat Nov 07 17:20:11 1998
+PLY=003.ply
+MAT=003.mat
+GRP=003.grp
+# Number of TIM (Texture) Files
+NTEX=3
+TEX[0]=head.tim
+TEX[1]=me.tim
+TEX[2]=headura.tim

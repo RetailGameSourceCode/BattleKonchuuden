@@ -1,0 +1,11 @@
+@GRP940102
+# created by Meditor on Tue Sep 08 09:39:54 1998
+# Number of Groups
+2
+# GroupName  Lines  Polygons
+a  2  154
+0-3,7,8,11-26,28,29,31,34-38,40,42-65,68-74,76-94
+98-99,102-117,119,120,122,125-129,131,133-156,159-165,167-181
+# GroupName  Lines  Polygons
+Default  1  182
+0-181

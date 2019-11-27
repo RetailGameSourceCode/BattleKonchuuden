@@ -1,0 +1,44 @@
+/*--+----1----+----2----+----3----+----4----+----5----+----6----+----7----+--*/
+/*  System Name   : INSECT POKEMON                                           */
+/*  Machine & OS  : Sony PlayStation / PlayStation OS ( R3000 )              */
+/*  Language      : GNU C                                                    */
+/*                                                                           */
+/*  File Contents : MAIN SYSTEM PROCEDURES                                   */
+/*  File Attribute: TABLE                                                    */
+/*  File Name     : MAINSYS.TBL                                              */
+/*                                                                           */
+/*--+----1----+----2----+----3----+----4----+----5----+----6----+----7----+--*/
+
+/*----- User Header     Files -----*/
+#include "../lib/polygon.h"
+#include "../lib/menu.h"
+#include "../lib/strategy.h"
+#include "../lib/street.h"
+#include "../lib/title.h"
+#include "../lib/Zukan.h"
+#include "../lib/slpda.h"
+#include "../lib/akmcrd.h"
+#include "../lib/staff.h"
+
+/*--+----1----+----2----+----3----+----4----+----5----+----6----+----7----+--*/
+/*  PROCESS TABLE                                                            */
+/*--+----1----+----2----+----3----+----4----+----5----+----6----+----7----+--*/
+PRCS_TBL                     prcs_tbl[ PRCS_TBL_MAX ] =
+{
+   { NULL            },                               /* Main        Process */
+   { Polygon         },                               /* Battle      Process */
+   { MainMenu        },                               /* Menu        Process */
+   { Strategy        },                               /* Strategy    Process */
+   { Street          },                               /* Street      Process */
+   { Title           },                               /* Title       Process */
+   { Zukan           },                               /* Zukan       Process */
+   { Slpda           },                               /* PDA         Process */
+   { AKMCRD          },                               /* MemoryCard  Process */
+   { Staff           },                               /* Staff       Process */
+   { NULL            },                               /*             Process */
+   { NULL            },                               /*             Process */
+   { NULL            },                               /*             Process */
+   { NULL            },                               /*             Process */
+   { NULL            },                               /*             Process */
+};
+

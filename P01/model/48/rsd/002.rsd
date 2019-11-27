@@ -1,0 +1,9 @@
+@RSD940102
+# created by Meditor on Wed Dec 09 16:17:37 1998
+PLY=002.PLY
+MAT=002.mat
+GRP=002.grp
+# Number of TIM (Texture) Files
+NTEX=2
+TEX[0]=doutai.tim
+TEX[1]=hara2.tim

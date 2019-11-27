@@ -1,0 +1,10 @@
+@GRP940102
+# created by Meditor on Sat Aug 29 11:25:38 1998
+# Number of Groups
+2
+# GroupName  Lines  Polygons
+frat  1  58
+2-7,10-22,25,26,28-33,37,38,41-46,49-61,64,65,67-72,76,77
+# GroupName  Lines  Polygons
+Default  1  78
+0-77
